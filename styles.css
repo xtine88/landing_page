@@ -1,3 +1,8 @@
 body{
-  background: pink;
+  background-image: url('https://picsum.photos/200/300/?random');
+}
+
+h1, h4 {
+  text-align: center;
+  background-repeat: no-repeat;
 }

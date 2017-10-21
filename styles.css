@@ -1,8 +1,9 @@
-body{
-  background-image: url('https://picsum.photos/200/300/?random');
-}
+@import url('https://fonts.google.apis.com/css?family=Raleway')
+@import url('https://fonts.google.apis.com/css?family=Oswald')
 
-h1, h4 {
-  text-align: center;
-  background-repeat: no-repeat;
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
 }
